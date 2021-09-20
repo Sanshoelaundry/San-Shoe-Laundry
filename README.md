@@ -23,12 +23,16 @@ Pada web ini kami berencana membuat beberapa page atau halaman web yang terususu
 Keterangan : 
 1. Home  
 Ini adalah halaman awal yang menampilkan beberapa opsi pilihan dan penjelasan tentang San Shoe Laundry.
+
 2. About 
 Pada halaman ini menjelaskan sedikit tentang San Shoe Laundry.
+
 3. Service 
 Pada halaman ini menjelaskan beberapa layanan yang ada pada SanShoe Laundry.
+
 4. Contact 
 Pada halaman ini tersedia informasi mengenai kontak yang dapat dihubungi customer untuk melakukan konsultasi terlebih dahulu serta transaksi pada San Shoe Laundry.
+
 5. Order Now 
 Halaman untuk menerima pesanan customer.
 
