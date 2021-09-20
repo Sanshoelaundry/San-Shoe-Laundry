@@ -21,15 +21,15 @@ Pada web ini kami berencana membuat beberapa page atau halaman web yang terususu
 5.	Order Now
 
 Keterangan : 
-Home : 
+1. Home  
 Ini adalah halaman awal yang menampilkan beberapa opsi pilihan dan penjelasan tentang San Shoe Laundry.
-About : 
+2. About 
 Pada halaman ini menjelaskan sedikit tentang San Shoe Laundry.
-Service : 
+3. Service 
 Pada halaman ini menjelaskan beberapa layanan yang ada pada SanShoe Laundry.
-Contact : 
+4. Contact 
 Pada halaman ini tersedia informasi mengenai kontak yang dapat dihubungi customer untuk melakukan konsultasi terlebih dahulu serta transaksi pada San Shoe Laundry.
-Order Now : 
+5. Order Now 
 Halaman untuk menerima pesanan customer.
 
 Kesimpulan :
