@@ -21,11 +21,16 @@ Pada web ini kami berencana membuat beberapa page atau halaman web yang terususu
 5.	Order Now
 
 Keterangan : 
-Home : Ini adalah halaman awal yang menampilkan beberapa opsi pilihan dan penjelasan tentang San Shoe Laundry.
-About : Pada halaman ini menjelaskan sedikit tentang San Shoe Laundry.
-Service : Pada halaman ini menjelaskan beberapa layanan yang ada pada SanShoe Laundry.
-Contact : Pada halaman ini tersedia informasi mengenai kontak yang dapat dihubungi customer untuk melakukan konsultasi terlebih dahulu serta transaksi pada San Shoe Laundry.
-Order Now : Halaman untuk menerima pesanan customer.
+Home : 
+Ini adalah halaman awal yang menampilkan beberapa opsi pilihan dan penjelasan tentang San Shoe Laundry.
+About : 
+Pada halaman ini menjelaskan sedikit tentang San Shoe Laundry.
+Service : 
+Pada halaman ini menjelaskan beberapa layanan yang ada pada SanShoe Laundry.
+Contact : 
+Pada halaman ini tersedia informasi mengenai kontak yang dapat dihubungi customer untuk melakukan konsultasi terlebih dahulu serta transaksi pada San Shoe Laundry.
+Order Now : 
+Halaman untuk menerima pesanan customer.
 
 Kesimpulan :
 San shoe lLaundry adalah sebuah inovasi baru dalam jasa mencuci dan merawat sepatu, di era  digital saat ini banyak sekali masyarakat yang menggunakan sosial media atau internet. banyak dari mereka yang mencari jasa layanan untuk laundry sepatu. San shoe laundry adalah salah satu solusi dari masalah tersebut. customer tidak perlu repot repot untuk pergi mencuci sepatu, karena di san shoe laundry dapat pick up dan delivery service yang mana sangat memudahkan para customer
